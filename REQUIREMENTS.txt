@@ -1,0 +1,9 @@
+pyttsx3==2.90
+speechrecognition==3.8.1
+requests==2.25.1
+bs4==0.0.1
+wikipedia==1.4.0
+jokeapi==1.0.4
+keyboard==0.13.5
+async-timeout==3.0.1
+regex==2021.10.8
